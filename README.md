@@ -42,4 +42,3 @@ Advanced SQL features for complex analytics and automation.
 - MySQL Workbench
 
 ---
-
