@@ -21,4 +21,3 @@ from employee_salary;
 -- If the average salary is greater than the employee's salary, it labels 'Below Average'
 -- If the average salary is less than the employee's salary, it labels 'Above Average' 
 -- The average salary subquery is executed for each row
-
