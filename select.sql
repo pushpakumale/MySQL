@@ -7,4 +7,3 @@ from employee_demographics;
 
 select count(distinct gender) as Number_of_Gender from employee_demographics; #Gives the total number of distinct gender in the table 
 
-
