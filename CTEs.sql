@@ -17,4 +17,3 @@ select avg(avg_sal)
 from cte_one;
 
 
-
